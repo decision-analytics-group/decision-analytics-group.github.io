@@ -23,4 +23,3 @@ date: 2018-01-07
 - Feng, Bo ; Li, Yanzhi ; Shen, Huaxiao. / Tying mechanism for airlines' air cargo capacity allocation. In: European Journal of Operational Research. 2015 ; Vol. 244, No. 1. pp. 322-330.
 - Feng, Bo ; Li, Yanzhi ; Shen, Zuo-Jun Max. / Air cargo operations : Literature review and comparison with practices. In: Transportation Research Part C: Emerging Technologies. 2015 ; Vol. 56. pp. 263-280.
 - Benjaafar, Saif ; Li, Yanzhi ; Daskin, Mark. / Carbon footprint and the management of supply chains : Insights from simple models. In: IEEE Transactions on Automation Science and Engineering. 2013 ; Vol. 10, No. 1. pp. 99-116.
-{:.publications}

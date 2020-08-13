@@ -23,4 +23,3 @@ date: 2018-01-07
 - Li, Xi ; Li, Yanzhi ; Shi, Mengze. / Managing Consumer Deliberations in a Decentralized Distribution Channel. In: Marketing Science. 2019 ; Vol. 38, No. 1. pp. 170-190.
 - Lan, Yongquan ; Li, Yanzhi ; Papier, Felix. / Competition and coordination in a three-tier supply chain with differentiated channels. In: European Journal of Operational Research. 2018 ; Vol. 269, No. 3. pp. 870-882.
 - Lan, Yongquan ; Li, Yanzhi ; Hua, Zhongsheng. / Commentary On “Equilibrium Returns Policies in the Presence of Supplier Competition”. In: Marketing Science. 2013 ; Vol. 32, No. 5. pp. 821-823.
-{:.publications}
