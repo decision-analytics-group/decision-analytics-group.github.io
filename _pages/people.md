@@ -40,5 +40,5 @@ gallery:
 ---
 
 {% for g in page.gallery %}
-<div class="member"><img class="{{g.type}}" src="{{g.url}}"/><h3><a href="{{g.bio}}">{{g.title}}</a></h3></div>
+<div class="member"><img class="{{g.type}}" src="{{g.url | relative_url}}"/><h3><a href="{{g.bio | relative_url}}">{{g.title}}</a></h3></div>
 {% endfor %}

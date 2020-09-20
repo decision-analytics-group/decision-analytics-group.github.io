@@ -9,8 +9,8 @@ date: 2018-01-07
 
 ## Projects
 
-- 01/2021 - , [Online Assortment Planning with Ranking-based Choice Models](/projects/online-assortment-planning-with-ranking-based-choice-models/)
-- 01/2013 - 06/2016, [Joint Pricing, Space Allocation and Assortment Planning: An Iterative Improvement Approach](/projects/joint-pricing-space-allocation-and-assortment-planning-an-iterative-improvement-approach/)
+- 01/2021 - , [Online Assortment Planning with Ranking-based Choice Models]({{ '/projects/online-assortment-planning-with-ranking-based-choice-models/' | relative_url}})
+- 01/2013 - 06/2016, [Joint Pricing, Space Allocation and Assortment Planning: An Iterative Improvement Approach]({{'/projects/joint-pricing-space-allocation-and-assortment-planning-an-iterative-improvement-approach/' | relative_url}})
 - 01/2020 - 12/2020 Alibaba PI, Structuring mining and pattern discovering for e-commerce orders
 - 02/2018 - 07/2019 Alibaba PI, Dynamic assortment planning and pricing for e-commerce
 

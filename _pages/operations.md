@@ -9,11 +9,11 @@ date: 2018-01-07
 
 ## Projects
 
-- 01/2019 - Now, [Robust Dual Sourcing with Two Spot Market Supplies](/projects/robust-dual-sourcing-with-two-spot-market-supplies/)
-- 01/2017 - Now, [Operational Impact of Stockout Service Level in Dynamic Inventory System](/projects/operational-impact-of-stockout-service-level-in-dynamic-inventory-system/)
-- 10/2015 - 09/2019, [Blood Platelet Inventory Control for a Blood Center with Limited Supply](/projects/blood-platelet-inventory-control-for-a-blood-center-with-limited-supply/)
-- 8/2018 - 7/2019 Hospital Authority PI, [Review of patient transport service for Hospital Authority](/projects/review-of-patient-transport-service-for-hospital-authority/)
-- 2016 - 2017 Golden Resources PI, [A logistics monitoring and scheduling system](/projects/grds/)
+- 01/2019 - Now, [Robust Dual Sourcing with Two Spot Market Supplies]({{'/projects/robust-dual-sourcing-with-two-spot-market-supplies/'|relative_url}})
+- 01/2017 - Now, [Operational Impact of Stockout Service Level in Dynamic Inventory System]({{'/projects/operational-impact-of-stockout-service-level-in-dynamic-inventory-system/'|relative_url}})
+- 10/2015 - 09/2019, [Blood Platelet Inventory Control for a Blood Center with Limited Supply]({{'/projects/blood-platelet-inventory-control-for-a-blood-center-with-limited-supply/'|relative_url}})
+- 8/2018 - 7/2019 Hospital Authority PI, [Review of patient transport service for Hospital Authority]({{'/projects/review-of-patient-transport-service-for-hospital-authority/'|relative_url}})
+- 2016 - 2017 Golden Resources PI, [A logistics monitoring and scheduling system]({{'/projects/grds/'|relative_url}})
 
 ## Publications
 
