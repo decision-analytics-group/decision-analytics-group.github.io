@@ -9,6 +9,8 @@ date: 2018-01-07
 
 # Publications
 
+- SHEN, Huaxiao; LI, Yanzhi David; GUAN, Jingjing; TSO, Kwok Fai Geoffrey / A Planning Approach to Revenue Management for Non-guaranteed Targeted Display Advertising. September 2020; In: Production and Operations Management.
+- LI, Xi; LI, Yanzhi David; Ying-Ju, Chen / Strategic Inventories under Supply Chain Competition. September 2020; In: Manufacturing and Service Operations Management.
 - Chen, Shouchang; Li, Yanzhi; Zhou, Weihua / Joint Decisions for Blood Collection and Platelet Inventory Control. February 2019; In: Production and Operations Management.
 - Zhang, Zizhen; Qin, Hu; Li, Yanzhi / Multi-objective optimization for the vehicle routing problem with outsourcing and profit balancing. 2018; In: IEEE Transactions on Intelligent Transportation Systems.
 - Feng, Bo; Li, Yanzhi; Shen, Huaxiao / Tying mechanism for airlines' air cargo capacity allocation. July 2015; In: European Journal of Operational Research. Vol. 244, No. 1, pp. 322-330
