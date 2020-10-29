@@ -17,6 +17,8 @@ date: 2018-01-07
 
 ## Publications
 
+- SHEN, Huaxiao; LI, Yanzhi David; GUAN, Jingjing; TSO, Kwok Fai Geoffrey / A Planning Approach to Revenue Management for Non-guaranteed Targeted Display Advertising. September 2020; In: Production and Operations Management.
+- LI, Xi; LI, Yanzhi David; Ying-Ju, Chen / Strategic Inventories under Supply Chain Competition. September 2020; In: Manufacturing and Service Operations Management.
 - Zhang, Zizhen ; Qin, Hu ; Li, Yanzhi. / Multi-Objective Optimization for the Vehicle Routing Problem With Outsourcing and Profit Balancing. In: IEEE Transactions on Intelligent Transportation Systems. 2020 ; Vol. 21, No. 5. pp. 1987-2001.
 - Wu, Tongwen ; Zhang, Zizhen ; Li, Yanzhi ; Wang, Jiahai. / Collective Mobile Sequential Recommendation : A Recommender System for Multiple Taxicabs. Proceedings - IEEE 31st International Conference on Tools with Artificial Intelligence. IEEE Computer Society, 2019. pp. 1260-1264 (Proceedings - International Conference on Tools with Artificial Intelligence, ICTAI).
 - Chen, Shouchang ; Li, Yanzhi ; Zhou, Weihua. / Joint Decisions for Blood Collection and Platelet Inventory Control. In: Production and Operations Management. 2019 ; Vol. 28, No. 7. pp. 1674-1691.

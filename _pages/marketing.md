@@ -17,6 +17,8 @@ date: 2018-01-07
 
 ## Publications
 
+- SHEN, Huaxiao; LI, Yanzhi David; GUAN, Jingjing; TSO, Kwok Fai Geoffrey / A Planning Approach to Revenue Management for Non-guaranteed Targeted Display Advertising. September 2020; In: Production and Operations Management.
+- LI, Xi; LI, Yanzhi David; Ying-Ju, Chen / Strategic Inventories under Supply Chain Competition. September 2020; In: Manufacturing and Service Operations Management.
 - SHEN, Huaxiao ; LI, Yanzhi David ; CHEN, Youhua Frank ; Pan, Kai. / Integrated Ad Delivery Planning for Targeted Display Advertising. In: Operations Research. 2020.
 - Mao, Huiqiang ; Li, Yanzhi ; Li, Chenliang ; Chen, Di ; Wang, Xiaoqing ; Deng, Yuming. / PARS : Peers-aware Recommender System. The Web Conference 2020: Proceedings of The World Wide Web Conference WWW 2020. Association for Computing Machinery, Inc, 2020. pp. 2606-2612 (The Web Conference 2020 - Proceedings of the World Wide Web Conference, WWW 2020).
 - Wu, Tongwen ; Mao, Huiqiang ; Li, Yanzhi ; Chen, Di. / ASSORTMENT SELECTION FOR A FRONTEND WAREHOUSE : A ROBUST DATA-DRIVEN APPROACH. 49th International Conference on Computers & Industrial Engineering (CIE49). 2019. pp. 56-64 (Proceedings of International Conference on Computers and Industrial Engineering, CIE).
