@@ -35,16 +35,6 @@ feature_row:
 
 {% include feature_row %}
 
-![image-left](/assets/images/news2.png){: .align-left}
-
-2019 POMS International Conference in China: Best Student Paper (1st Prize)
-{: .notice--info}
-
-City University of Hong Kong: College Excellent PhD Supervisor Award 2016
-{: .notice--info}
-
-2011 INFORMS: JFIG Paper Competition Finalist
-{: .notice--info}
 
 <div style="margin: 30px 0; border-bottom: 1px solid #f2f3f3; height: 1px"></div>
 
