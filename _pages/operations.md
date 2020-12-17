@@ -16,8 +16,8 @@ date: 2018-01-07
 - 2016 - 2017 Golden Resources PI, [A logistics monitoring and scheduling system]({{'/projects/grds/'|relative_url}})
 
 ## Publications
-- Xinbo Zhang, Yanzhi Li, Huiqiang Mao, Liming Li, Xiaoqing Wang, Yuming Deng. Optimal dispatching for order fulfillment, under review.
-- Xing He, Yu Yang, Yanzhi Li, Huiqiang Mao, Liming, Li, Xiaoqing Wang, Yuming Deng. Joint assortment and inventory decisions for frontend warehouses, under review.
+- Xinbo Zhang, Yanzhi Li, Huiqiang Mao, Liming Li, Xiaoqing Wang, Yuming Deng. Optimal dispatching for order fulfillment, under review, 2020.
+- Xing He, Yu Yang, Yanzhi Li, Huiqiang Mao, Liming, Li, Xiaoqing Wang, Yuming Deng. Joint assortment and inventory decisions for frontend warehouses, under review, 2020.
 - SHEN, Huaxiao; LI, Yanzhi David; GUAN, Jingjing; TSO, Kwok Fai Geoffrey / A Planning Approach to Revenue Management for Non-guaranteed Targeted Display Advertising. September 2020; In: Production and Operations Management.
 - LI, Xi; LI, Yanzhi David; Ying-Ju, Chen / Strategic Inventories under Supply Chain Competition. September 2020; In: Manufacturing and Service Operations Management.
 - Zhang, Zizhen ; Qin, Hu ; Li, Yanzhi. / Multi-Objective Optimization for the Vehicle Routing Problem With Outsourcing and Profit Balancing. In: IEEE Transactions on Intelligent Transportation Systems. 2020 ; Vol. 21, No. 5. pp. 1987-2001.
