@@ -16,7 +16,7 @@ date: 2018-01-07
 
 
 ## Publications
-
+- Huang, Weixiang; Li, Yanzhi David; Chen, Youhua Frank / Overage Disutility, User Trading and Tariff Design. February 2021; In: Production and Operations Management.
 - SHEN, Huaxiao; LI, Yanzhi David; GUAN, Jingjing; TSO, Kwok Fai Geoffrey / A Planning Approach to Revenue Management for Non-guaranteed Targeted Display Advertising. September 2020; In: Production and Operations Management.
 - LI, Xi; LI, Yanzhi David; Ying-Ju, Chen / Strategic Inventories under Supply Chain Competition. September 2020; In: Manufacturing and Service Operations Management.
 - SHEN, Huaxiao ; LI, Yanzhi David ; CHEN, Youhua Frank ; Pan, Kai. / Integrated Ad Delivery Planning for Targeted Display Advertising. In: Operations Research. 2020.
